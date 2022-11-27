@@ -1,2 +1,5 @@
 # rstudio-ace
-Ace Theme
+
+Ace Theme for Rstudio
+
+![How Ace theme looks](ace.png)
