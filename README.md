@@ -2,4 +2,4 @@
 
 Ace Theme for Rstudio
 
-![How Ace theme looks](ace.png)
+![How Ace theme looks](ace2.png)
