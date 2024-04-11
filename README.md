@@ -9,3 +9,14 @@ rstudioapi::addTheme("https://raw.githubusercontent.com/AnthonyEbert/rstudio-ace
 ```
 
 ![How Ace theme looks](ace2.png)
+
+I made a new theme called Ace2, the differences from Ace are 
+
+* highlighting is light orange and,
+* default text color is purple
+
+```{r}
+rstudioapi::addTheme("https://raw.githubusercontent.com/AnthonyEbert/rstudio-ace/main/Ace2.tmTheme", apply = TRUE)
+```
+
+![How Ace2 theme looks](ace3.PNG)
