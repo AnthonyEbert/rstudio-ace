@@ -20,3 +20,14 @@ rstudioapi::addTheme("https://raw.githubusercontent.com/AnthonyEbert/rstudio-ace
 ```
 
 ![How Ace2 theme looks](ace3.PNG)
+
+I made a new theme called Ace3, it's like Ace2 but the other way around
+
+* highlighting is purple and,
+* default text color is light orange
+
+```{r}
+rstudioapi::addTheme("https://raw.githubusercontent.com/AnthonyEbert/rstudio-ace/main/Ace3.tmTheme", apply = TRUE)
+```
+
+![How Ace3 theme looks](ace4.PNG)
